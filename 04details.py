@@ -1,0 +1,1 @@
+print("hello\\ \n my name is mani thapa \n I live in kathmandu nepal \nmy\tphone number\tis \"9808645073\"")

@@ -1,0 +1,13 @@
+# creat a program that. calculate lengh and total word in a string using user input
+word=input("inter the first text:")
+word2=input("inter the second :")
+
+
+all_words = word + " "+  word2
+
+total_char = len(all_words)
+total_words = len(all_words.split(" "))
+
+print(f"Total Character: {total_char}")
+print(f"Total Words: {total_words}")
+
