@@ -1,0 +1,15 @@
+#yearly income of my salary
+jan=int(input("jan:"))
+feb=int(input("feb:"))
+march=int(input("march:"))
+april=int(input("april:"))
+may=int(input("may"))
+jun=int(input("jun:"))
+july=int(input("july:"))
+agust=int(input("agust:"))
+sep=int(input("sep:"))
+oct=int(input("oct:"))
+nov=int(input("nov:"))
+dec=int(input("dec:"))
+total_salary=jan+feb+march+april+may+jun+july+agust+sep+oct+nov+dec
+print(f"MY yearly salary is:{total_salary}")
